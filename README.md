@@ -1,6 +1,10 @@
 # imgen
 Script for generating images with text.
 
+![](examples/021.png)
+![](examples/033.png)
+![](examples/099.png)
+
 ## How to run
 
 ### Examples
